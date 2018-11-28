@@ -2,7 +2,7 @@ package tn.esprit.javaee.wildfly_javaee7_webapp_ear_blank_archetype;
 
 /**
  * Hello world!
- * hello h
+ * hello horr
  */
 public class App 
 {
